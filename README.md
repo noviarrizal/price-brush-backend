@@ -33,7 +33,7 @@ PriceBrush adalah web app (PWA, mobile-first) untuk painter & decorator di UK: j
 
 ## Rencana stack ($0)
 
-Cloudflare Workers · Supabase (Postgres + auth) · Groq Whisper (STT) · LLM murah via API · Polar (merchant of record, urus VAT UK).
+Cloudflare Workers · Neon (serverless Postgres) · auth Google & file storage: to be chosen · Groq Whisper (STT) · LLM murah via API · Polar (merchant of record, urus VAT UK).
 
 ## Dokumen
 
